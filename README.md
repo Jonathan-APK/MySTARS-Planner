@@ -49,5 +49,5 @@ etc. he will not add a course with a course name “I CREATED THIS FOR FUN”)
 1. Run execute.bat in the Program folder
 2. Use Test Accounts: 
   - Admin Account: admin1, P@ssw0rd
-  - Students: TANG0101, password
+  - Students Account: TANG0101, password
               POHK1010, password
