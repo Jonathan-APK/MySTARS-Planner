@@ -42,3 +42,12 @@ etc. he will not add a course with a course name “I CREATED THIS FOR FUN”)
 8.	Each Course belongs to only one school.
 9.	There is no AU credits limit for students to overload modules. 
 10.	“School” class is not included as they are not needed in this scenario.	
+
+
+## Instruction:
+
+1. Run execute.bat in the Program folder
+2. Use Test Accounts: 
+  - Admin Account: admin1, P@ssw0rd
+  - Students: TANG0101, password
+              POHK1010, password
